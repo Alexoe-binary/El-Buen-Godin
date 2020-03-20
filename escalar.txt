@@ -1,0 +1,19 @@
+poder hacer que tenga suficiente contentenido
+Poder hacer que tenga suficiente trafico
+Contactar a las companias y ofrecer la opcion de remediar la situacion
+
+
+What I did
+Rent web hosting
+Buy a domain name
+Create Subdomain
+
+Create Larevel Project Using
+Boostrap
+Blade
+mysql and Laravel Elloquent  
+
+Deploy Project
+Create DB with CPanel mysql
+Export the DB and configure permissions
+adjust htacces to accept index.php

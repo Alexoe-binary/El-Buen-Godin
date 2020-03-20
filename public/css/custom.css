@@ -1,0 +1,39 @@
+body{
+  background-color: #fff;
+}
+
+.jumbotron-style{
+  background-color: #3AAFA9;
+  color: #fff;
+}
+
+.navbar-style{
+  background-color: #fff;
+  font-size: 18px;
+  color: #222422;
+}
+
+.navbar-link-style{
+  color: #17252a;
+  display: block;
+  padding: 0.5rem 1rem;
+}
+
+.tableheader-style{
+  background-color: #2b7a78;
+}
+.table-col-style{
+  color: #fff;
+}
+
+.foote-style{
+
+  background-color: #17252a;
+}
+
+.foot-font-style{
+  color: #3AAFA9;
+  display: block;
+  padding: 0.5rem 1rem;
+
+}
